@@ -76,7 +76,7 @@ export default function MotivationSection() {
               style={{ aspectRatio: "3 / 4" }}
             >
               <Image
-                src="/images/raj-sha.jpg"
+                src="/images/raj-sha.png"
                 alt="Raj Shamani portrait"
                 fill
                 sizes="(max-width: 768px) 100vw, 340px"
